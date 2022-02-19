@@ -1,0 +1,1 @@
+web: gunicorn indiv-1-app:server
